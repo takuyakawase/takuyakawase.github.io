@@ -57,6 +57,7 @@ nav ul li a.selected {
     background-color:#fff
 }
 section {
+    margin-bottom: 30px;
     padding: 30px 20px;
 }
 section h2 {
@@ -70,4 +71,10 @@ footer {
     text-align: center;
     background-color: #ccc;
     color: #666;
+}
+.port {
+    max-width: 800px;
+    margin: 0 auto 0;
+    background-color:#fff
+    /*ここに真ん中やる*/
 }
