@@ -75,6 +75,12 @@ footer {
 .port {
     max-width: 800px;
     margin: 0 auto 0;
-    background-color:#fff
+    background-color:#fffff0
     /*ここに真ん中やる*/
+}
+.gazou {
+    padding: 20px 20px 20px 20px;
+}
+.maru {
+
 }
